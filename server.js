@@ -1,5 +1,4 @@
 const express = require('express');
-const http = require('http');
 const dotenv = require('dotenv').config();
 const path = require('path');       
 const socket = require('socket.io');
