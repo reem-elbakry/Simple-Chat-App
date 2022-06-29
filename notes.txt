@@ -1,0 +1,7 @@
+websocket >> bi-directional communication 
+
+landing page ( join page )
+
+
+
+install socket.io for client side and server side
